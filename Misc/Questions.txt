@@ -1,0 +1,46 @@
+Good Questions:
+https://www.programiz.com/c-programming/examples 
+How to use GitHub with VS Code
+https://www.youtube.com/watch?v=2oihkInZ880&ab_channel=GeekyShows
+.
+.
+.
+.
+Basic:
+1>Print all the combinations possible using the number 1,2 & 3.
+2>Input a number and calculate it's factorial.
+3>Input 2 digits a & b, Create a functions and calculate exponent i.e a^b
+4>Input a number and print if it's Prime or not.
+
+Sorting & Searching:
+5>Write a program to input a int and Search an element withing that using Linear Search
+6>Write a program to input a int and Search an element withing that using Binary Search
+7>Write a program to input a int and Search an element withing that using Selection sort.
+8>Input an array and print the sorted array using Bubble sort.
+
+Switch case:
+9>Write a program to explain the basic functioning of the switch case. [See Example]
+
+Array:
+10>Input a 10 integer array and print it's sum.
+11>Input a 10 integer array and print the smallest and largest elemnt in that array with their position.
+12>Input an int array_size and create a new array of size "array_size" then input and fill that array and 
+then prompt the user to search an element withing that array, if it's in the array display it's position, 
+if not display "Element not found".
+
+
+Others:
+13>Program to find if a string is PALINDROME or not.
+14>Input a 10 integer array and print how many of them are positive or negative, & how many are even or odd.
+
+
+Structures:
+15>Write a program input 2 variables Budget and Hotel grade 
+Create a basic Structure and save 2 hotel names, address , grade, rooms avaliabe & price of the room.
+the results shoud be shown based on either inputs.
+
+File Handeling:
+16>Wite a program to create a file and input the text from the user and save it to the file.
+17>write a program to Copy all the text from one text file and create a new file and print the text in that file
+you have to input both the name of the file.
+18>Program to count number of lines and number of word from a text file.

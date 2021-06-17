@@ -1,0 +1,7 @@
+This is a file to index all the program in thi folder.
+
+1:  Understanding pointers
+2:  De-refrencing a pointer
+3:  Understanding pointers in Array
+4:  String Variable using pointers and not a char array
+5:  Limiting the input length of the string.

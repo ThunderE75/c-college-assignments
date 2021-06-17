@@ -1,0 +1,2 @@
+#1: Password strength checker.
+#2: Dice roll blackjack

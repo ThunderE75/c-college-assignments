@@ -1,0 +1,43 @@
+Basic:
+>Print all the combinations possible using the number 1 & 2.
+>Print all the combinations possible using the number 1,2 & 3.
+>Input a number and calculate it's factorial.
+>Input 2 digits a & b, Create a functions and calculate exponent i.e a^b
+>Input a number and print if it's Prime or not.
+>Input a number and print all the primne numbers from 0 till that number.
+
+Sorting & Searching:
+>Write a program to input a int and Search an element withing that using Linear Search
+>Write a program to input a int and Search an element withing that using Binary Search
+>Write a program to input a int and Search an element withing that using Selection sort.
+>Input an array and print the sorted array using Bubble sort.
+
+Switch case:
+>Write a program to explain the basic functioning of the switch case. [See Example]
+
+Array:
+>Input an array and print it.
+>Input a 10 integer array and print it's sum.
+>Input a 10 integer array and print the smallest and largest elemnt in that array with their position.
+>Input an int array_size and create a new array of size "array_size" then input and fill that array and 
+then prompt the user to search an element withing that array, if it's in the array display it's position, 
+if not display "Element not found".
+
+
+Others:
+>Program to find if a string is PALINDROME or not.
+>Input a 10 integer array and print how many of them are positive or negative, & how many are even or odd.
+
+
+Structures:
+>Write a program input 2 variables Budget and Hotel grade 
+>Create a basic Structure and save 2 hotel names, address , grade, rooms avaliabe & price of the room.
+>the results shoud be shown based on either inputs.
+
+File Handeling:
+>Wite a program to create a file and input the text from the user and save it to the file.
+>write a program to Copy all the text from one text file and create a new file and print the text in that file
+you have to input both the name of the file.
+>Program to count number of lines and number of word from a text file.
+
+if you need help, ask in the BCA disord server

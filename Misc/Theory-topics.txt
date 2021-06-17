@@ -1,0 +1,6 @@
+Extrnal Variable: https://youtu.be/1Dkfmf4PmvQ?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+Macros: https://youtu.be/BVnNg20AuYU?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+call by value and call by refrence: https://youtu.be/HEiPxjVR8CU?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+Recurssion: https://youtu.be/kepBmgvWNDw?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+Recurssion (representation easy) https://youtu.be/kepBmgvWNDw?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&t=460
+How to actually use sizeof() func in c https://www.youtube.com/watch?v=RMJzZXvr2mY

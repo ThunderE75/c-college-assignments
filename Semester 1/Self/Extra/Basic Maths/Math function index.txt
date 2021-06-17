@@ -1,0 +1,4 @@
+1: Rounding using Floor and Ceil    => Math.h header file required
+2: Use of Absuloute
+3: Use of Pow() and Sqrt()
+4: Use of rand()

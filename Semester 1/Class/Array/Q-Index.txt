@@ -1,0 +1,3 @@
+Q1: 
+Q2: Initilizating and Searching (Linear Search) in an array.
+Q3: Find Smallest and Largest elements in an array.
